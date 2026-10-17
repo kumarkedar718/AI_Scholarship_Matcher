@@ -1,0 +1,11 @@
+{
+  "name": "ai-scholarship-matcher-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-Based Scholarship Matcher Root Project Workspace",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
